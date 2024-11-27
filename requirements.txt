@@ -1,0 +1,18 @@
+# Core dependencies
+fastapi==0.115.2
+uvicorn==0.32.0
+python-multipart
+pydantic==2.9.2
+streamlit>=1.31.0
+requests>=2.31.0
+
+# Database
+sqlalchemy==2.0.35
+psycopg2-binary==2.9.9
+pandas==2.2.3
+pyarrow==17.0.0
+
+# ML/DL dependencies
+torch>=2.0.0
+transformers>=4.37.0
+Pillow>=10.0.0
